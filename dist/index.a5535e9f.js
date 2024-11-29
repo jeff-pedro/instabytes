@@ -643,10 +643,10 @@ document.addEventListener("DOMContentLoaded", displayImages);
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>fetchImages);
-let API_URL = "https://backend-instabytes-396738216589.southamerica-east1.run.app/posts";
+let API_URL = "https://backend-instabytes-396738216589.southamerica-east1.run.app/posts/";
 async function fetchImages() {
     try {
-        const response = await fetch("https://backend-instabytes-396738216589.southamerica-east1.run.app/posts"); // Usando a URL importada
+        const response = await fetch("https://backend-instabytes-396738216589.southamerica-east1.run.app/posts/"); // Usando a URL importada
         const data = await response.json();
         return data;
     } catch (error) {
@@ -684,6 +684,6 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}]},["6Ie9W","1E7ZB"], "1E7ZB", "parcelRequire94c2")
+},{}]},["6Ie9W","1E7ZB"], "1E7ZB", "parcelRequire3f1a")
 
 //# sourceMappingURL=index.a5535e9f.js.map
