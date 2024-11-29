@@ -1,6 +1,6 @@
 5885
-73/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.a5535e9f.js1732910306773138386 0
-63/home/jefferson/Studies/nodejs/projects/instabytes/package.json1732910530030148349 0
+73/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.a5535e9f.js1732913317486352421 0
+63/home/jefferson/Studies/nodejs/projects/instabytes/package.json1732911750362260549 0
 61/home/jefferson/Studies/nodejs/projects/instabytes/index.html1732909997444265443 0
 85/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/entities/package.json1732910099695553602 0
 85/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/entities/lib/index.js1732910099668546541 0
@@ -150,7 +150,7 @@
 114/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/legacy.js.map1732910099783576618 0
 113/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/index.js.map1732910099773574002 0
 119/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/traversal.d.ts.map1732910099812584202 0
-66/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.html1732910226345608978 0
+66/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.html1732913317485352300 0
 119/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/stringify.d.ts.map1732910099802581587 0
 116/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/legacy.d.ts.map1732910099779575572 0
 115/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-select/node_modules/domutils/lib/esm/index.d.ts1732910099830588910 0
@@ -1404,7 +1404,7 @@
 97/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-tree/cjs/syntax/node/Rule.cjs1732910099961623172 0
 101/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/fileapi.js1732910100117664013 0
 102/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-tree/lib/syntax/atrule/supports.js1732910100094657990 0
-77/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.a5535e9f.js.map1732910306779138256 0
+77/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.a5535e9f.js.map1732913317493353275 0
 72/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/htmlnano1732910099987629972 1
 108/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/css-exclusions.js1732910100009635729 0
 123/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/mdn-text-decoration-shorthand.js1732910100185681822 0
@@ -2357,7 +2357,7 @@
 101/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@swc/helpers/esm/_array_with_holes.js1732910100143670823 0
 112/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/core/src/requests/WriteBundlesRequest.js1732910100079654061 0
 114/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers1732910099543513848 1
-55/home/jefferson/Studies/nodejs/projects/instabytes/.env1732910298138402716 0
+55/home/jefferson/Studies/nodejs/projects/instabytes/.env1732912016348734871 0
 110/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/csso/node_modules/css-tree/cjs/syntax/function1732910099994631803 1
 91/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-tree/lib/utils/names.js1732910100078653799 0
 93/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/cosmiconfig/dist/merge.js.map1732910099772573741 0
@@ -2881,7 +2881,7 @@
 94/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/regenerator-runtime/runtime.js1732910099525509141 0
 95/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/regions/IR.js1732910100161675537 0
 103/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/transformer-babel/src/config.js1732910099661544710 0
-55/home/jefferson/Studies/nodejs/projects/instabytes/dist1732910306780138234 1
+55/home/jefferson/Studies/nodejs/projects/instabytes/dist1732913317460349252 1
 130/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/csso/node_modules/css-tree/lib/syntax/node/index-parse-selector.js1732910100064650133 0
 103/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/png-alpha.js1732910100211688631 0
 107/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/border-radius.js1732910099885603295 0
@@ -4254,7 +4254,7 @@
 115/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/contentsecuritypolicy.js1732910099971625787 0
 87/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/workers/LICENSE1732910099519507571 0
 135/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/pseudo/index.js1732910099940617679 0
-73/home/jefferson/Studies/nodejs/projects/instabytes/dist/byte.9f802d6a.ico1732910226278632893 0
+73/home/jefferson/Studies/nodejs/projects/instabytes/dist/byte.9f802d6a.ico1732913317485352300 0
 97/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/workers/lib/childState.js1732910099639538956 0
 93/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/workers/lib/Handle.js1732910099735564064 0
 92/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/workers/lib/child.js1732910099616532941 0
@@ -4392,7 +4392,7 @@
 79/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/fs/test1732910099710557525 1
 86/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/runtime-js/src1732910099801581325 1
 133/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/config/mix.js1732910099982628664 0
-74/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.558629d4.css1732910226336612190 0
+74/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.558629d4.css1732913317485352300 0
 103/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/core/lib/ParcelConfig.schema.js1732910100013636776 0
 102/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/runtime-js/src/helpers/browser1732910099821586556 1
 97/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/core/src/public/Bundle.js1732910099863597541 0
@@ -5037,7 +5037,7 @@
 99/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/css-tree/cjs/syntax/node/String.cjs1732910099971625787 0
 128/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/search.js1732910100001633633 0
 127/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/trace.js1732910100015637300 0
-50/home/jefferson/Studies/nodejs/projects/instabytes1732910196943892664 1
+50/home/jefferson/Studies/nodejs/projects/instabytes1732913298760384791 1
 98/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/core/src/Transformation.js1732910100067650918 0
 129/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/generic.js1732910099902607741 0
 116/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc.c1732910099921612710 0
@@ -5175,7 +5175,7 @@
 123/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/node_modules/css-select/package.json1732910099696553864 0
 82/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/lmdb/dict/dict.txt1732910100066650657 0
 107/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-svgo/src/SVGOOptimizer.js1732910099571521171 0
-73/home/jefferson/Studies/nodejs/projects/instabytes/dist/gui.a276dbbe.jpeg1732910226296626468 0
+73/home/jefferson/Studies/nodejs/projects/instabytes/dist/gui.a276dbbe.jpeg1732913317487352543 0
 143/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Parentheses.js1732910099993631541 0
 99/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/reporter-dev-server/LICENSE1732910099522508356 0
 89/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/utility-types/SECURITY.md1732910099670547064 0
@@ -5649,7 +5649,7 @@
 106/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@babel/helper-validator-identifier/LICENSE1732910099541513325 0
 101/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/utils/test/collection.test.js1732910099664545495 0
 101/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/utils/test/DefaultMap.test.js1732910099700554910 0
-78/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.558629d4.css.map1732910226337611833 0
+78/home/jefferson/Studies/nodejs/projects/instabytes/dist/index.558629d4.css.map1732913317493353275 0
 93/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/@parcel/transformer-image/lib1732910099590526141 1
 105/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/csso/node_modules/mdn-data/css/types.json1732910099816585249 0
 105/home/jefferson/Studies/nodejs/projects/instabytes/node_modules/caniuse-lite/data/features/input-event.js1732910100153673441 0
