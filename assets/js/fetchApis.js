@@ -1,6 +1,5 @@
-import "dotenv/config";
-
-let { API_URL } = process.env;
+// Acessando a variável definida no HTML ou via Parcel
+const API_URL = window.API_URL || process.env.API_URL;
 
 // Função para buscar os dados do endpoint
 export default async function fetchImages() {
