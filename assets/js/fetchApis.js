@@ -1,3 +1,5 @@
+import "dotenv/config";
+
 console.log(process.env['NODE_ENV']);
 
 // let API_URL = process.env.API_URL;
