@@ -63,6 +63,4 @@
 // // Chamar a função para buscar e exibir as imagens ao carregar a página
 // document.addEventListener("DOMContentLoaded", displayImages);
 
-import "dotenv/config";
-
 console.log(process.env['NODE_ENV']);
