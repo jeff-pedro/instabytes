@@ -24,12 +24,9 @@
   "contributors": [],
   "scripts": {
     "dev": "parcel --port 8000 index.html",
-    "build": "npx parcel build index.html"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  },
-  "dependencies": {
-    "dotenv": "^16.4.5"
+    "parcel": "^2.13.2"
   }
 }
