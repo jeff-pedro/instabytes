@@ -24,11 +24,12 @@
   "contributors": [],
   "scripts": {
     "dev": "parcel --port 8000 index.html",
-    "prebuild": "rm -rf dist/* .cache",
-    "build": "parcel build index.html --public-url ./",
+    "prebuild": "rm -rf dist/* .cache .parcel-cache",
+    "build": "parcel build index.html --no-minify --public-url ./",
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "devDependencies": {
-    "parcel": "^2.13.2"
+    "parcel": "^2.13.2",
+    "parcel-bundler": "^1.12.5"
   }
 }
