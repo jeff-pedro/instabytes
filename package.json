@@ -23,8 +23,8 @@
   },
   "contributors": [],
   "scripts": {
-    "dev": "npx parcel --port 8000 index.html",
-    "test": ""
+    "dev": "parcel --port 8000 index.html",
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.13.2"
