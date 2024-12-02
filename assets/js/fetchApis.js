@@ -1,4 +1,6 @@
-let API_URL  = process.env.API_URL;
+console.log(process.env.API_URL);
+
+let API_URL = process.env.API_URL;
 
 // Função para buscar os dados do endpoint
 export default async function fetchImages() {
@@ -10,3 +12,5 @@ export default async function fetchImages() {
     console.error("Erro ao buscar dados:", error);
   }
 }
+
+
